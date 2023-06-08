@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-[Live Site](https://brunooborges.github.io/react_calc_imc)
+[Live Site](https://brunooborges.github.io/react-calc-imc)
 
 Projeto em React + Typescript fazendo uma calculadora de IMC.
 
