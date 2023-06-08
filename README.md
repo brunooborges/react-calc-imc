@@ -2,12 +2,12 @@
 
 Projeto em React + Typescript fazendo uma calculadora de IMC.
 
-Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
+React + Typescript projects bluiding a BMI calculator.
 
-### Instalação
+### Install
 
 - `npm install`
 
-### Para rodar
+### Run
 
 - `npm start`
